@@ -39,8 +39,8 @@
 Скачайте репозиторий:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/Texail/speedtest.git
+cd speedtest
 ```
 
 Запустите программу:
@@ -190,8 +190,8 @@ No manual dependency installation is required. `uv` automatically installs `requ
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/Texail/speedtest.git
+cd speedtest
 ```
 
 Run the program:
