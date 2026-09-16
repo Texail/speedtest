@@ -1,10 +1,10 @@
 # Internet Speed Test CLI
 
-🇷🇺 Русская версия | 🇬🇧 English version
+[RU](#ru-language) [ENG](#eng-language)
 
 ---
 
-# 🇷🇺 RU
+<a name="ru-language"></a>
 
 ## 📡 Internet Speed Test
 
@@ -155,7 +155,7 @@ for chunk in response.iter_content(chunk_size=65536):
 
 ---
 
-# 🇬🇧 ENG
+<a name="eng-language"></a>
 
 ## 📡 Internet Speed Test
 
